@@ -51,26 +51,11 @@ A full-stack Job Application Tracker built with Spring Boot, PostgreSQL, and Rea
 - GitHub
 - Render
 
-## 🏗️ Project Architecture
-
-```text
-React Frontend
-      |
-      | REST API
-      ↓
-Spring Boot Backend
-      |
-      | JPA / Hibernate
-      ↓
-PostgreSQL Database
-
 📦 Repositories
 Backend
-
 Job Application Tracker Backend
 
 Frontend
-
 Job Application Tracker Frontend
 
 🌐 Deployment
@@ -91,4 +76,19 @@ Advanced dashboard analytics
 
 👩‍💻 Author
 Shameem Banu
+
+
+
+## 🏗️ Project Architecture
+
+```text
+React Frontend
+      |
+      | REST API
+      ↓
+Spring Boot Backend
+      |
+      | JPA / Hibernate
+      ↓
+PostgreSQL Database  
 
